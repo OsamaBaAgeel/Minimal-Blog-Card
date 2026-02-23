@@ -1,3 +1,7 @@
+*
+{
+    font-family: "Sora", 'Times New Roman', Times, serif;
+}
 body
 {
     margin: 0;
@@ -5,4 +9,56 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.container
+{
+    background-color: #FAFAF9;
+    border-radius: 5%;
+    max-width: 336px;
+    box-shadow: 4px 4px #E5EAF0;
+    padding: 16px;
+}
+.container img
+{
+    max-width: 336px;
+    max-height: 152px;
+}
+.card
+{
+
+}
+.tag
+{
+    font-size: 10px;
+    background-color: #F2EAFD;
+    border-radius: 25%;
+    padding: 5px 15px;
+    color: #7C19EE;
+    margin-top: 100px;
+    font-weight: 700;
+}
+.content h3 
+{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.content p
+{   
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.5;
+}
+.author p 
+{
+    font-size: 12px;
+    
+}
+hr
+{
+    width: 100%;
+    border: none;
+    height: 1px;
+    background-color: #D2D5DA;
 }
