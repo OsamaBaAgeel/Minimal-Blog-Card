@@ -17,7 +17,7 @@ body
     background-color: #FAFAF9;
     border-radius: 15px;
     max-width: 368px;
-    box-shadow: 4px 4px #E5EAF0;
+    box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
     overflow: hidden;
     
 }
